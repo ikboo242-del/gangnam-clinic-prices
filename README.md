@@ -1,8 +1,8 @@
 # Gangnam Clinic Prices — printed aesthetic treatment prices in Gangnam, Seoul
 
-Built 2026-11-16 from the Gangnam Clinic Guide price store (https://gangnamclinicguide.com/how-we-check-prices.html).
+Built 2026-11-17 from the Gangnam Clinic Guide price store (https://gangnamclinicguide.com/how-we-check-prices.html).
 
-> Released 2026-11-16. Updated when the source store changes.
+> Released 2026-11-16. Rebuilt daily from the source store; last built 2026-11-17.
 
 ## What this is
 
@@ -12,7 +12,7 @@ botox, filler, hair_removal, inmode, laser_toning, lip_filler, onda, other, pack
 Every row is a price **as printed on the clinic's own website**, copied as text by our price monitor. Nothing here is a quote,
 an average, a recommendation or a ranking. Rows are sorted by procedure, spec, price and name — not by quality.
 
-Last-checked dates in this file run from 2026-09-17 to 2026-11-16.
+Last-checked dates in this file run from 2026-09-17 to 2026-11-17.
 
 ## Files
 
@@ -34,7 +34,7 @@ Last-checked dates in this file run from 2026-09-17 to 2026-11-16.
 | price_type | `published` (list price) or `promotional` (event price, usually with conditions) |
 | vat | `excluded`, `included` or `unknown` as stated by the clinic |
 | source_url | The clinic page the price was read from |
-| archived_copy_url | Wayback Machine copy of the source page, where one exists (most rows) |
+| archived_copy_url | Wayback Machine copy of the source page, where one exists (584 rows) |
 | first_seen | First day our monitor read this price |
 | last_checked | Last day the price was read on the source page |
 
@@ -43,7 +43,7 @@ Last-checked dates in this file run from 2026-09-17 to 2026-11-16.
 - A monitor re-reads each clinic's price page daily. A price changes in this file only when the printed figure changes.
 - A row is dropped when its figure disappears from the source page on two consecutive checks.
 - Only active rows are included. Rows we could not re-confirm, superseded rows and rows for merged/duplicate clinics are left out.
-- Rows whose source page sits on a different branch subdomain than the clinic are held back until re-checked.
+- Rows whose source page sits on a different branch than the clinic, or whose branch is unclear, are held back until re-checked.
 - A small number of clinics are held out of automated updates and out of this file while their source pages are reviewed by hand.
 - Full method: https://gangnamclinicguide.com/how-we-check-prices.html · Change log: https://gangnamclinicguide.com/price-updates.html
 
