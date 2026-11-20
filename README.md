@@ -1,18 +1,18 @@
 # Gangnam Clinic Prices — printed aesthetic treatment prices in Gangnam, Seoul
 
-Built 2026-11-20 from the Gangnam Clinic Guide price store (https://gangnamclinicguide.com/how-we-check-prices.html).
+Built 2026-11-21 from the Gangnam Clinic Guide price store (https://gangnamclinicguide.com/how-we-check-prices.html).
 
-> Released 2026-11-16. Rebuilt daily from the source store; last built 2026-11-20.
+> Released 2026-11-16. Rebuilt daily from the source store; last built 2026-11-21.
 
 ## What this is
 
-650 price rows from 79 clinics, mostly in Gangnam-gu and Seocho-gu; branches elsewhere in Seoul that the store also tracks (e.g. Hongdae, Mokdong, Jamsil) are included and labelled in `district`. Procedures covered:
+647 price rows from 79 clinics, mostly in Gangnam-gu and Seocho-gu; branches elsewhere in Seoul that the store also tracks (e.g. Hongdae, Mokdong, Jamsil) are included and labelled in `district`. Procedures covered:
 botox, filler, hair_removal, inmode, laser_toning, lip_filler, onda, other, package, rejuran, sculptra, shurink, skin_booster, thermage, thread, ultherapy.
 
 Every row is a price **as printed on the clinic's own website**, copied as text by our price monitor. Nothing here is a quote,
 an average, a recommendation or a ranking. Rows are sorted by procedure, spec, price and name — not by quality.
 
-Last-checked dates in this file run from 2026-09-17 to 2026-11-20.
+Last-checked dates in this file run from 2026-09-17 to 2026-11-21.
 
 ## Files
 
@@ -34,7 +34,7 @@ Last-checked dates in this file run from 2026-09-17 to 2026-11-20.
 | price_type | `published` (list price) or `promotional` (event price, usually with conditions) |
 | vat | `excluded`, `included` or `unknown` as stated by the clinic |
 | source_url | The clinic page the price was read from |
-| archived_copy_url | Wayback Machine copy of the source page, where one exists (579 rows) |
+| archived_copy_url | Wayback Machine copy of the source page, where one exists (576 rows) |
 | first_seen | First day our monitor read this price |
 | last_checked | Last day the price was read on the source page |
 
