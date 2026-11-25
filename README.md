@@ -6,7 +6,7 @@ Built 2026-11-25 from the Gangnam Clinic Guide price store (https://gangnamclini
 
 ## What this is
 
-725 price rows from 83 clinics, mostly in Gangnam-gu and Seocho-gu; branches elsewhere in Seoul that the store also tracks (e.g. Hongdae, Mokdong, Jamsil) are included and labelled in `district`. Procedures covered:
+723 price rows from 83 clinics, mostly in Gangnam-gu and Seocho-gu; branches elsewhere in Seoul that the store also tracks (e.g. Hongdae, Mokdong, Jamsil) are included and labelled in `district`. Procedures covered:
 botox, filler, hair_removal, inmode, laser_toning, lip_filler, onda, onda_body, other, package, rejuran, sculptra, shurink, skin_booster, sofwave, thermage, thread, ultherapy.
 
 Every row is a price **as printed on the clinic's own website**, copied as text by our price monitor. Nothing here is a quote,
@@ -34,7 +34,7 @@ Last-checked dates in this file run from 2026-09-17 to 2026-11-25.
 | price_type | `published` (list price) or `promotional` (event price, usually with conditions) |
 | vat | `excluded`, `included` or `unknown` as stated by the clinic |
 | source_url | The clinic page the price was read from |
-| archived_copy_url | Wayback Machine copy of the source page, where one exists (592 rows) |
+| archived_copy_url | Wayback Machine copy of the source page, where one exists (590 rows) |
 | first_seen | First day our monitor read this price |
 | last_checked | Last day the price was read on the source page |
 
