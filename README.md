@@ -1,8 +1,8 @@
 # Gangnam Clinic Prices — printed aesthetic treatment prices in Gangnam, Seoul
 
-Built 2026-11-25 from the Gangnam Clinic Guide price store (https://gangnamclinicguide.com/how-we-check-prices.html).
+Built 2026-11-26 from the Gangnam Clinic Guide price store (https://gangnamclinicguide.com/how-we-check-prices.html).
 
-> Released 2026-11-16. Rebuilt daily from the source store; last built 2026-11-25.
+> Released 2026-11-16. Rebuilt daily from the source store; last built 2026-11-26.
 
 ## What this is
 
@@ -12,7 +12,7 @@ botox, filler, hair_removal, inmode, laser_toning, lip_filler, onda, onda_body, 
 Every row is a price **as printed on the clinic's own website**, copied as text by our price monitor. Nothing here is a quote,
 an average, a recommendation or a ranking. Rows are sorted by procedure, spec, price and name — not by quality.
 
-Last-checked dates in this file run from 2026-09-17 to 2026-11-25.
+Last-checked dates in this file run from 2026-09-17 to 2026-11-26.
 
 ## Files
 
@@ -83,7 +83,6 @@ Corrections: https://gangnamclinicguide.com/contact.html
 ### Clinics with English-speaking staff, with prices
 - https://gangnamclinicguide.com/english-speaking-botox-clinics-seoul.html
 - https://gangnamclinicguide.com/english-speaking-botox-prices-gangnam.html
-- https://gangnamclinicguide.com/english-speaking-filler-prices-gangnam.html
 - https://gangnamclinicguide.com/english-speaking-inmode-clinics-seoul.html
 - https://gangnamclinicguide.com/english-speaking-laser-hair-removal-clinics-seoul.html
 - https://gangnamclinicguide.com/english-speaking-laser-toning-clinics-seoul.html
